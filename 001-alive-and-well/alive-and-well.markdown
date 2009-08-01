@@ -6,6 +6,10 @@ categories:
 
 # Alive And Well (2009-07-31 23:33:48)
 
+SUMMARY: In a world of tech blogs... why do we need yet another? We don't. So don't read this post. **No, seriously, you don't want to.**
+
+Ok ok ok, please do. Wait, you're already here. Great, read on then!
+
 > "Are you ready to rock?" &raquo; [Alive and well][song] by Rise Against from The Unraveling (before they sucked)
 
 Once upon a time, I had a dream. That dream was to roll my own blog in [Rails][rails] and show the world the awesomeness that was me. And so I bought [rand9.com][rand9] with full intentions of launching my blog in a few days. Well, days turned into a week, a week into several weeks, several weeks into several months, etc.
