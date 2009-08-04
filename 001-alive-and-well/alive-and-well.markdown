@@ -1,12 +1,11 @@
 {{
-categories:
+title: Alive And Well
+published-on: 2009-07-31 23:33:48
+summary: "In a world of tech blogs... why do we need yet another? We don't. So don't read this post. **No, seriously, you don't want to.**"
+tags:
   - musings
   - bloggin'
 }}
-
-# Alive And Well (2009-07-31 23:33:48)
-
-SUMMARY: In a world of tech blogs... why do we need yet another? We don't. So don't read this post. **No, seriously, you don't want to.**
 
 Ok ok ok, please do. Wait, you're already here. Great, read on then!
 
