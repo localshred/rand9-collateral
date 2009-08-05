@@ -1,13 +1,11 @@
 {{
 title: Alive And Well
 published-on: 2009-07-31 23:33:48
-summary: "In a world of tech blogs... why do we need yet another? We don't. So don't read this post. **No, seriously, you don't want to.**"
+summary: "In a world of tech blogs... why do we need yet another? We don't. So don't read this post. **No, seriously, you don't want to.**\n\nOk ok ok, please do. Wait, you're already here. Great, read on then!"
 tags:
   - musings
   - bloggin'
 }}
-
-Ok ok ok, please do. Wait, you're already here. Great, read on then!
 
 > "Are you ready to rock?" &raquo; [Alive and well][song] by Rise Against from The Unraveling (before they sucked)
 
