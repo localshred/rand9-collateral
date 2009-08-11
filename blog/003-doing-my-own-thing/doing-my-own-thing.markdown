@@ -1,7 +1,7 @@
 {{
 title: Doing my own thing
 published-on: 2009-08-11 04:44:33
-summary: ""
+summary: "In which I describe some of the ideas and thoughts behind my entrepreneurial spirit. It's a bit of a rambler, but was very therapeutic for me in the writing."
 tags:
   - "Self-Discovery"
   - Entrepreneurship
