@@ -37,7 +37,7 @@ Topic branches aren't a special kind of branch, it's just a way of thinking abou
 
 **How do you manage your projects with git?**
 
-  [rails]: http://ruby-lang.org "Ruby the programming language"
+  [ruby]: http://ruby-lang.org "Ruby the programming language"
   [rails]: http://rubyonrails.org "Ruby on Rails"
   [rails-github]: http://www.github.com/rails/rails "Rails on Github"
   [Ben]: http://benmatz.wordpress.com "Ben"
