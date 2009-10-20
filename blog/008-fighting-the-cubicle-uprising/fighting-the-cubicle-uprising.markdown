@@ -35,7 +35,11 @@ My assertion was enough to sway the powers-that-be, so let us pray that if/when 
 
 **What have you stood up for today?**
 
+**Update:** Apparently Robert Propst, the designer of the [Action Office][action-office] (what the cubicle originated from), called the cubicle a ["monolithic insanity"][insanity]. I couldn't agree more.
+
   [tni]: http://www.tni.com "Morinda Citrofolia, brought to you by Tahitian Noni International! Ya, I hate it too, it's okay."
   [ikea]: http://www.ikea.com/us/en/catalog/products/S49852135 "This base, with some other top"
   [focus]: http://www.edmunds.com/media/reviews/top10/05.cars.worst.residual.value/05.ford.focus.500.jpg "Ford Focus"
   [M5]: http://cache.jalopnik.com/cars/assets/resources/2008/01/G-Power%20Hurricane%20BMW%20M5.jpg "BMW M5. Oh the salivation..."
+  [action-office]: http://www.hermanmiller.com/Products/Action-Office-System "The current Action Office workspace design"
+  [insanity]: http://en.wikipedia.org/wiki/Action_Office "And I completely agree"
