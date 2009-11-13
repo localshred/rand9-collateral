@@ -19,7 +19,8 @@ Through the following months and years I gained an incredible amount of knowledg
 1. From Nathan, I learned the very basics of programming: control flow, variables, functions, mysql, etc.
 2. From Rainer I learned a ton about OO programming and CSS-based designs, as well as semantic markup that validates and conforms to standards. He also taught me to love the complex Join Query, and love it I do.
 3. Ben showed me a new way to use objects I hadn't really seen before (closer to framework programming), and also got me a job at a great little startup where we were given a great opportunity to run the show. At that company, I gained absolutely invaluable experience managing, developing, and deploying large applications. We even got the chance to write our own web framework, which was a huge learning experience.
-4. From Eric and Kevin I gained the opportunity to take all my knowledge and apply it with a different toolset. I also learned a lot more about enterprise-level systems.
+4. Ryan showed me what it takes to really get things done. He's also a fine purveyor of knives and guns (which, admittedly has nothing to do with this post at all, it's just cool).
+5. From Eric and Kevin I gained the opportunity to take all my knowledge and apply it with a different toolset. I also learned a lot more about enterprise-level systems.
 
 All of these people and experiences has made me the developer I am today. I believe that whatever the road you take, eventually you come to be a developer who **solves problems**, which is really what software development is all about.
 
